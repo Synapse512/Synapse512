@@ -1,6 +1,7 @@
 Hi  
-I am still working on stuff like my resume, and portfolio, so they arent public yet
-I am also still working on projects, i will be working on many more before any thing here is public
+I am still working on stuff, but mainly i am still learning
+I will be working on many more things before any thing here is public
 Ok bye
 
 Resume: https://tinyurl.com/LiamDoyleResume
+Portfolio: https://synapse512.github.io/
