@@ -6,6 +6,6 @@ I also love developing games in Roblox, where I get to work with graphics, physi
 
 While I am not highly skilled in programming yet, I am working towards bettering my skills everyday. I aspire to be able to work in a programming career someday. 
   
-Resume: https://tinyurl.com/Synapse512Portfolio  
+Resume: https://tinyurl.com/Synapse512Resume
 Portfolio: https://synapse512.github.io/  
 (note: neither my resume or portfolio are near complete/satisfactory yet)
