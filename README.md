@@ -1,7 +1,10 @@
-Hi    
-I am still working on stuff, but mainly i am still learning  
-I will be working on many more things before any thing here is public  
-Ok bye
+Hello, I am 16 and from NC  
 
-Resume: https://tinyurl.com/LiamDoyleResume
+I enjoy coding scripts in Powershell, C++, and Lua. I think its very fun and satisfying. 
+
+I also love developing games in Roblox, where I get to work with graphics, physics, and programming Server/Client systems.   
+
+While I am not highly skilled in programming yet, I am working towards bettering my skills everyday. I aspire to be able to work in a programming career someday. 
+  
+Resume: https://tinyurl.com/LiamDoyleResume  
 Portfolio: https://synapse512.github.io/
