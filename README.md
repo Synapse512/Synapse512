@@ -8,5 +8,6 @@ I am working towards bettering my skills in programming every day, as I aspire t
   
 Resume: https://tinyurl.com/Synapse512Resume  
 Portfolio: https://synapse512.github.io/  
+DevForum: https://devforum.roblox.com/u/synapse512/summary  
 Contact: water890909@gmail.com  
 (note: I am actively updating my portfolio and resume)
