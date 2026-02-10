@@ -7,7 +7,7 @@ I also love developing games in Roblox, where I get to work with aspects like gr
 I am working towards bettering my skills in programming every day, as I aspire to eventually be able to work in a programming career.
    
 Contact: water890909@gmail.com  
-Resume: https://tinyurl.com/4wuv8xjs    
+Resume:  
 Portfolio: https://synapse512.github.io/  
 Roblox DevProfile: https://devforum.roblox.com/u/synapse512/summary   
 (note: I am actively updating my portfolio and resume)
