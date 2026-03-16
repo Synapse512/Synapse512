@@ -1,8 +1,8 @@
 # Liam Doyle  
 
-Hello, I am a 16 year old Early College student from NC.    
-I am dual-enrolled in high school and Craven Community College, where I am earning an associate in Science.   
-I am also taking Harvard University's CS50 course on my own time. 
+16 year old programmer from NC   
+I am a dual-enrollment student pursuing an Associate in Science alongside highschool  
+Independently taking Harvard University's CS50 course to improve my skills at C and CS fundamentals
 
 ---
 ## Experience
