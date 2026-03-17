@@ -7,7 +7,7 @@ Independently taking Harvard University's CS50 course to improve my skills at C 
 ---
 ## Experience
 -C, C++   
--Lua, Luau   
+-Lua, Luau (Roblox Engine)  
 -Powershell (.NET Framework)   
 
 ---
