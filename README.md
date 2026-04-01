@@ -1,4 +1,4 @@
-# Liam Doyle  
+### Who am I?
 
 16 year old programmer from NC   
 Dual-enrollment student pursuing an Associate in Science alongside highschool  
