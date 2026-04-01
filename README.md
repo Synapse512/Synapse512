@@ -1,8 +1,8 @@
 ### Who am I?
 
-16 year old programmer from NC   
-Dual-enrollment student pursuing an Associate in Science alongside highschool  
-Independently taking Harvard University's CS50 course to improve my skills at C and CS fundamentals
+-16 year old programmer from NC   
+-Dual-enrollment student pursuing an Associate in Science alongside highschool  
+-Independently taking Harvard University's CS50 course to improve my skills at C and CS fundamentals
 
 ---
 ### Experience
