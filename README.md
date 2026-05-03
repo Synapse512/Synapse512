@@ -1,7 +1,7 @@
 ### About me  
 
 -**Roblox Development:** I create projects using Roblox Studio, which have gained over 6M+ plays and reached 2.8M people globally  
--**Education:** Dual-enrollment student earning an Associates in Science, and taking Harvard University's CS50 course to improve at C and CS  
+-**Education:** Dual-enrollment student earning an Associates in Science, and taking Harvard's CS50 course to improve at C and CS  
 -**Experience:** C/C++, Lua/Luau (Roblox Engine), and Powershell (.NET)
 
 ---
