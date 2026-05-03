@@ -1,3 +1,4 @@
+### About me  
 -16 year old programmer with experience in C & C++, Lua & Luau (Roblox Engine), and Powershell (.NET Framework)   
 -Dual-enrollment student pursuing an Associate in Science alongside highschool  
 -Independently taking Harvard University's CS50 course to improve my skills at C and CS fundamentals
