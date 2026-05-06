@@ -10,4 +10,4 @@ Linktree: https://linktr.ee/liamd512
 Resume: https://ld512resume.my.canva.site/   
 Portfolio: https://synapse512.github.io/  
 Roblox DevProfile: https://devforum.roblox.com/u/synapse512/summary   
-(note: I am actively updating my portfolio and resume)
+(note: I am actively updating these, some are very unfinished)
