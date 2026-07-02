@@ -5,9 +5,8 @@
 -**Experience:** C/C++, Lua/Luau (Roblox Engine), and Powershell (.NET)
 
 ---
-### Profiles  
-Linktree: https://linktr.ee/liamd512  
+### Profiles   
 Resume: https://ld512resume.my.canva.site/   
 Portfolio: https://synapse512.github.io/  
 Roblox DevProfile: https://devforum.roblox.com/u/synapse512/summary   
-(note: I am actively updating these, some are very unfinished)
+(note: some of these have nothing added to them yet)
