@@ -4,6 +4,10 @@
 -**Education:** Dual-enrollment HS student earning an Associates in Science, and taking Harvard's CS50 course to improve at C and CS  
 -**Experience:** C/C++, Lua/Luau (Roblox Engine), and Powershell (.NET)
 
+### Currently working on:
+-**Rbxl_AudioEngine:** WIP module for creating and managing sound with new roblox audio system  
+-**TheExtremelyNormalElevator:** Roblox elevator horror game
+
 ---
 ### Profiles   
 Resume: https://ld512resume.my.canva.site/   
