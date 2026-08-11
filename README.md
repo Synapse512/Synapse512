@@ -6,7 +6,7 @@
 
 ### Currently working on:
 -**Rbxl_AudioEngine:** WIP module for creating and managing sound with new roblox audio system  
--**Rbxl_LightingManager:** WIP module made for smooth transitions of lighting properties and effects
+-**Rbxl_LightingManager:** WIP module made for smooth transitions of lighting properties and effects  
 -**TheExtremelyNormalElevator:** Roblox elevator horror game
 
 ---
