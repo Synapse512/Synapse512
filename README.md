@@ -11,7 +11,6 @@
 
 ---
 ### Profiles   
-Resume: https://ld512resume.my.canva.site/   
 Portfolio: https://synapse512.github.io/  
+Resume: https://ld512resume.my.canva.site/   
 Roblox DevProfile: https://devforum.roblox.com/u/synapse512/summary   
-(note: some of these have nothing added to them yet)
